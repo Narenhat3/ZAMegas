@@ -1,2 +1,3 @@
-# 1.7.5 Release-hotfix
-- Fixed crash
+# 1.7.6 Release
+- Cleanup
+- Script fixes
