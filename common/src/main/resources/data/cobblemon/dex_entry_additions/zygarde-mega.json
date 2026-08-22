@@ -2,8 +2,8 @@
   "entryId": "cobblemon:zygarde",
   "forms": [
     {
-      "displayForm": "MegaC",
-      "unlockForms": ["MegaC"]
+      "displayForm": "Mega",
+      "unlockForms": ["Mega"]
     }
   ]
 }
