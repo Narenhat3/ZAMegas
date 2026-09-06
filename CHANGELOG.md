@@ -1,3 +1,2 @@
-# 1.7.6 Release
-- Cleanup
-- Script fixes
+# 1.7.6+1.8-Release
+- 1.8 update
