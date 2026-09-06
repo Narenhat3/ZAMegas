@@ -1,2 +1,2 @@
-# 1.7.6+1.8-Release
-- 1.8 update
+# 1.7.7+1.8-Release
+- Zygarde patch
