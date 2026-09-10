@@ -45,6 +45,12 @@ public final class ZamegaNeoForge {
         convert("chesnaughtite", "chesnaughtite");
         convert("chimechite", "chimechite");
         convert("chandelurite", "chandelurite");
+
+        convert("absolitez", "absolitez");
+        convert("baxcalibrite", "baxcalibrite");
+        convert("garchompitez", "garchompite_z");
+        convert("golisopite", "golisopite");
+        convert("lucarionitez", "lucarionite_z");
     }
 
     private static void convert(String oldId, String newId) {

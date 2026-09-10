@@ -16,13 +16,8 @@ import org.zamega.zamega.ZamegaMod;
 public class ZamegaItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ZamegaMod.MOD_ID, Registries.ITEM);
 
-    public static RegistrySupplier<Item> ABSOLITEZ = registerMegaStone("absolitez");
-    public static RegistrySupplier<Item> BAXCALIBRITE = registerMegaStone("baxcalibrite");
     public static RegistrySupplier<Item> DARKRANITE = registerMegaStone("darkranite");
-    public static RegistrySupplier<Item> GARCHOMPITEZ = registerMegaStone("garchompitez");
-    public static RegistrySupplier<Item> GOLISOPITE = registerMegaStone("golisopite");
     public static RegistrySupplier<Item> HEATRANITE = registerMegaStone("heatranite");
-    public static RegistrySupplier<Item> LUCARIONITEZ = registerMegaStone("lucarionitez");
     public static RegistrySupplier<Item> MAGEARNITE = registerMegaStone("magearnite");
     public static RegistrySupplier<Item> TATSUGIRINITE = registerMegaStone("tatsugirinite");
     public static RegistrySupplier<Item> ZERAORITE = registerMegaStone("zeraorite");

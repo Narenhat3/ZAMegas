@@ -45,6 +45,12 @@ public final class ZamegaFabric implements ModInitializer {
         convert("chesnaughtite", "chesnaughtite");
         convert("chimechite", "chimechite");
         convert("chandelurite", "chandelurite");
+
+        convert("absolitez", "absolite_z");
+        convert("baxcalibrite", "baxcalibrite");
+        convert("garchompitez", "garchompite_z");
+        convert("golisopite", "golisopite");
+        convert("lucarionitez", "lucarionite_z");
     }
 
     private static void convert(String oldId, String newId) {
