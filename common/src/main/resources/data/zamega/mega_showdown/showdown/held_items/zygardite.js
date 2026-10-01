@@ -1,4 +1,4 @@
-{
+({
     name: "Zygardite",
     spritenum: 568,
     megaStone: {
@@ -7,6 +7,11 @@
     itemUser: ["Zygarde-Complete"],
     onTakeItem(item, source) {
         return !item.megaStone?.[source.baseSpecies.baseSpecies];
+    },
+    megaSwap: {
+        'Zygarde-Mega': [
+            ['coreenforcer', 'nihillight']
+        ]
     },
     onStart(pokemon) {
         pokemon.canUltraBurst = null;
@@ -17,5 +22,5 @@
     },
     num: 2584,
     gen: 9,
-    isNonstandard: "Future",
-}
+    isNonstandard: "Future"
+})
